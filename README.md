@@ -1,5 +1,5 @@
 # CSharp-Katmanli-Mimari-Kutuphane-Otomasyonu
- C# ile ve Katmanlı Mimari yapısı kullanılarak oluşturulmuş Kütüphane Otomasyonu projesi
+ C# ile ZedGrapth ve Katmanlı Mimari yapısı kullanılarak oluşturulmuş Kütüphane Otomasyonu projesi
  
  ## Proje Detayları
 -	Katmanlı Mimari tabanlı olacaktır.
